@@ -35,3 +35,11 @@ Database:
 
 SQL database (e.g., MySQL) for storing user, car, and rental information.
 Sequelize ORM for efficient database management.
+
+Project Sample Images
+![Homepage](https://github.com/aditya2410-U/Car-rental-website/assets/102215488/66eeff33-2a60-446b-bb6b-b0a2e02c6262)
+Register Page 
+![Register](https://github.com/aditya2410-U/Car-rental-website/assets/102215488/91c6999c-4c7e-406f-9606-1faafc180f56)
+Sign-In Page
+![Sign in](https://github.com/aditya2410-U/Car-rental-website/assets/102215488/4e32760a-9b33-4c08-b371-23c44f8b5309)
+
